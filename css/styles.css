@@ -1,0 +1,47 @@
+body {
+  background-color: #b8fdfd;
+}
+
+.title {
+  color: #057a0b;
+  text-align: center;
+}
+
+.text {
+}
+
+.name {
+  color: #ff0000;
+  text-decoration: underline;
+}
+
+.rules {
+  background-color: #ffffff;
+  width: 300px;
+}
+
+.list-1 {
+  color: #ffae00;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.list-2 {
+  color: #51a106;
+  text-decoration: underline;
+}
+
+.list-3 {
+  color: #2600ff;
+  font-style: italic;
+}
+
+.list-4 {
+  color: #ff00ea;
+}
+
+.link {
+  color: #ffffff;
+  background-color: #140086;
+  padding: 5px;
+}
